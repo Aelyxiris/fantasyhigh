@@ -1,0 +1,21 @@
+:root  > * {
+  --md-default-bg-color: #faf9f2;
+  --md-default-fg-color--light: #240c02;
+  --md-default-fg-color: #240c02;
+  --md-primary-fg-color: #240c02;
+  --md-typeset-a-color: #b34029;
+}
+
+.md-typeset h1 {
+    color: var(--md-default-fg-color--light);
+    font-size: 3em;
+    line-height: 1.3;
+    margin: 0 0 0;
+}
+
+.md-typeset h2 {
+    font-size: 1.5625em;
+    line-height: 1.4;
+    margin: 1em 0 .64em;
+    font-weight: bold;
+}

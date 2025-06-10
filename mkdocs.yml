@@ -1,0 +1,24 @@
+site_name: Fantasy High Private Wiki
+site_url: https://aelyxiris.github.io/fantasyhigh
+site_author: Vern
+site_description: A wiki for our fantasy high campaign!
+
+nav:
+
+  - Home: index.md
+  - Characters: characters.md
+  - Groups: groups.md
+
+theme:
+  name: material
+  palette:
+    accent: indigo
+  features:
+    -  content.tooltips
+
+markdown_extensions:
+  - toc:
+      toc_depth: 3
+
+extra_css:
+  - stylesheets/extra.css
