@@ -4,7 +4,7 @@
 #### Cassius Callahan
 
 #### Ciria Manchester
-
+A thin, shy, akward Half-elf with pale skin, long messy blond hair, soft brown eyes, and braces on her sharp teeth that are a birth defect. Exploring the world of anime and adventure, trying to find her place in her new environment. Never seen without her bass or electric guitar, usually bass. She adores her pet basilisk, Jyura. 
 #### Elizabeth Von Ekenberg
 
 #### Murphy Dropkick
