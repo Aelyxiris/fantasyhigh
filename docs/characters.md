@@ -105,6 +105,7 @@ The middle school aged step-sister of Seren, Ayla is an unusually strong and tal
 #### Lily Lunalin
 
 #### Skye Ragathorn
+Orc artificer who does dawnmoss and duskmoss behind the school with her friends [Lily Lunalin](#lily-lunalin) and [Arabella Miso](#arabella-miso).
 
 #### Arabella Miso
 
