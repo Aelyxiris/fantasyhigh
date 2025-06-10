@@ -96,7 +96,7 @@ The middle school aged step-sister of Seren, Ayla is an unusually strong and tal
 
 ## Students
 #### Vanessa Faren
-![Vanessa Faren](images/vanessaPortrait.png){width=200; align=left}
+![Vanessa Faren](images/vanessaPortrait.png){width=30%; align=left}
 Vanessa Faren is a half-elf bard who is generally the popular girl of the school.
 
 <div style="clear: both;"></div>
