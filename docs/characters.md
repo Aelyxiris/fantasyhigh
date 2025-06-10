@@ -105,10 +105,13 @@ Vanessa Faren is a half-elf bard who is generally the popular girl of the school
 A bugbear girl that hangs around [Vanessa](#vanessa-faren) and [Vitalyn](#vitalyn-orianna).
 
 #### Vitalyn Orianna
+A dreugar druid who hangs out with [Vanessa](#vanessa-faren) and [a bugbear](#popular-bugbear). She helped Revil to class on the first day.
 
 #### Arialion Ovayath (Aria)
+Elven wizard who didn't get into the private school her parents wanted. Talked with Revil the first day of school. A member of the [GSA Club](groups.md/#gsa-club).
 
 #### Lily Lunalin
+A half-elf(?) warlock devoted to Atsumari. She does dawnmoss and duskmoss behind the school with her friends [Skye Ragathorn](#skye-ragathorn) and [Arabella Miso](#arabella-miso).
 
 #### Skye Ragathorn
 Orc artificer who does dawnmoss and duskmoss behind the school with her friends [Lily Lunalin](#lily-lunalin) and [Arabella Miso](#arabella-miso).
