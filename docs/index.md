@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Welcome to Vern's Fantasy High Wiki
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Navigating
+On the left is the various pages on the wiki. On the right is the table of contents for the page you're on. And in the middle is the page you're currently on. 
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Contributing
+If you want to contribute, ask Vern to help you set it up. There's two ways you can contribute: via github online (much quicker, but harder to make big changes) or via coding it with VSCode and git and stuff (lets you make new pages). 
