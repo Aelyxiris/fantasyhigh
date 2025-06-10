@@ -95,7 +95,7 @@ The middle school aged step-sister of Seren, Ayla is an unusually strong and tal
 
 ## Students
 #### Vanessa Faren
-
+![Vanessa Faren](images/vanessaPortrait.png){: style="transform: scale(0.5);"}
 #### Popular Bugbear
 
 #### Vitalyn Orianna
