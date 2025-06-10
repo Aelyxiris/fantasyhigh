@@ -8,6 +8,7 @@
 #### Elizabeth Von Ekenberg
 
 #### Murphy Dropkick
+A spindly little Triton devil. Skinny, sickly blue skin and big yellow eyes. Scheming of a way to get out of poverty and explore the world. The only thing that keeps him still going to this school is his father and his friends.
 
 #### Revil
 
