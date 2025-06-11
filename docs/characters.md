@@ -105,7 +105,10 @@ Vanessa Faren is a half-elf bard who is generally the popular girl of the school
 A bugbear girl that hangs around [Vanessa](#vanessa-faren) and [Vitalyn](#vitalyn-orianna).
 
 #### Vitalyn Orianna
+![Vitalyn Orianna](images/vitalynPortrait.png){width=30%; align=left}
 A dreugar druid who hangs out with [Vanessa](#vanessa-faren) and [a bugbear](#popular-bugbear). She helped Revil to class on the first day.
+
+<div style="clear: both;"></div>
 
 #### Arialion Ovayath (Aria)
 Elven wizard who didn't get into the private school her parents wanted. Talked with Revil the first day of school. A member of the [GSA Club](groups.md/#gsa-club).
