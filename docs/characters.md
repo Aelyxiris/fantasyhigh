@@ -132,7 +132,7 @@ Sports betting wizard. Dwarf.
 Sea elf. Kind of a cryptid.
 
 #### Lee Toughbark
-Gnomish artificer that fully fits the stereotype of a typical gnomish tinkerer. Dark brown braided hair and green eyes.
+Gnomish artificer that fully fits the stereotype of a typical gnomish tinkerer. Dark brown braided hair and green eyes. Leader of [Robotics Club](groups.md/#robotics-club)
 
 ## School Staff
 #### Principal Gimo Asari Dumpsterdive
