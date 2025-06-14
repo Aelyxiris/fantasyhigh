@@ -8,6 +8,7 @@ nav:
   - Home: index.md
   - Characters: characters.md
   - Groups: groups.md
+  - World Info: worldinfo.md
   - Installation: install.md
 
 theme:
