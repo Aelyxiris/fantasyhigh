@@ -5,6 +5,7 @@
 
 #### Ciria Manchester
 A thin, shy, akward Half-elf with pale skin, long messy blond hair, soft brown eyes, and braces on her sharp teeth that are a birth defect. Exploring the world of anime and adventure, trying to find her place in her new environment. Never seen without her bass or electric guitar, usually bass. She adores her pet basilisk, Jyura. 
+
 #### Elizabeth Von Ekenberg
 
 #### Murphy Dropkick
@@ -13,6 +14,7 @@ A spindly little Triton devil. Skinny, sickly blue skin and big yellow eyes. Sch
 #### Revil
 
 #### Seren Stonebreaker
+A big imposing Goliath. Seren is the eldest child in her family. Recently came out as trans, but knew toward her last year of middle school. She was a sports star in elementary and middle school, but has never been passionate about it. Her sports ventures were mainly pushed for by her father. She wants to be more creative, specifically she wants to do tattoos. 
 
 ## Family
 ### Callahans
