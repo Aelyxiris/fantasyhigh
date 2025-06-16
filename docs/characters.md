@@ -137,6 +137,9 @@ Sea elf. Kind of a cryptid.
 #### Lee Toughbark
 Gnomish artificer that fully fits the stereotype of a typical gnomish tinkerer. Dark brown braided hair and green eyes. Leader of [Robotics Club](groups.md/#robotics-club)
 
+#### Poppy
+Small human barbarian that breaks all the norms of barbarians. She smart, being one of the main coders of [Robotics Club](groups.md/#robotics-club) She's a senior at the Academy and does not give a shit anymore. Ironically does more coding jobs than adventuring ones.
+
 ## School Staff
 #### Principal Gimo Asari Dumpsterdive
 Are they a wizard? druid? sorcerer? who the fuck knows! resident insane guy. He’s a raccoon man that uses all pronouns. Fuck you.
