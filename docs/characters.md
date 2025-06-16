@@ -1,7 +1,8 @@
 # Characters
 
 ## Players
-#### Cassius Callahan
+#### Cassius Caleb Callahan
+The heir to Callahan Corporation, he is a half human, half deep gnome former private school kid. Willing to do anything to live up to his name. This has led to some disastrous situations, like Cassius robbing a kid the the first day of school. Constantly working on projects and new inventions. WARNING: Do not give him a gun in any situation.
 
 #### Ciria Manchester
 A thin, shy, akward Half-elf with pale skin, long messy blond hair, soft brown eyes, and braces on her sharp teeth that are a birth defect. Exploring the world of anime and adventure, trying to find her place in her new environment. Never seen without her bass or electric guitar, usually bass. She adores her pet basilisk, Jyura. 
