@@ -174,3 +174,5 @@ Triton. Dead and a creep, according to [Lily Lunalin](#lily-lunalin).
 ## Misc
 #### Nakgren Ashjaw
 A tired dwarf who works at 7/11.
+#### Chad Bucksaplenty, Gerald Tycoon, John Money ect.
+A strange man that seems to always find the party wherever they are. His hobbies include daytrading, destroying natural landscapes in favor of industry, and making tons of sales. He seems to always think about making more money while destroying the natural landscape, even in his dreams... He never seems to have one name, always changing to fit the "bit" and ladies, he's single
