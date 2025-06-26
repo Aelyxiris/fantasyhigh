@@ -15,7 +15,10 @@ A spindly little Triton devil. Skinny, sickly blue skin and big yellow eyes. Sch
 #### Revil
 
 #### Seren Stonebreaker
+![Seren Stonebreaker](images/Stonebreaker.webp){align=left}
 A big imposing Goliath. Seren is the eldest child in her family. Recently came out as trans, but knew toward her last year of middle school. She was a sports star in elementary and middle school, but has never been passionate about it. Her sports ventures were mainly pushed for by her father. She wants to be more creative, specifically she wants to do tattoos. 
+
+<div style="clear: both;"></div>
 
 ## Family
 ### Callahans
