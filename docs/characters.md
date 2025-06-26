@@ -107,7 +107,7 @@ Vanessa Faren is a half-elf bard who is generally the popular girl of the school
 
 <div style="clear: both;"></div>
 
-#### Popular Bugbear
+#### Zhonna Storak
 A bugbear girl that hangs around [Vanessa](#vanessa-faren) and [Vitalyn](#vitalyn-orianna).
 
 #### Vitalyn Orianna
