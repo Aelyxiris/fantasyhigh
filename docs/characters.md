@@ -126,10 +126,12 @@ A half-elf(?) warlock devoted to Atsumari. She does dawnmoss and duskmoss behind
 Orc artificer who does dawnmoss and duskmoss behind the school with her friends [Lily Lunalin](#lily-lunalin) and [Arabella Miso](#arabella-miso).
 
 #### Arabella Miso
+A Junior and the leader of the GSA. She is a goblin druid. Uses she/they pronouns.
 
 #### Wimwarith Yelogor
 
 #### Heras Lymphasia
+Part of The Fighter class and a member of the GSA. She is a human. Uses she/her pronouns
 
 #### Parker Ragendass
 Sports betting wizard. Dwarf.
@@ -142,6 +144,9 @@ Gnomish artificer that fully fits the stereotype of a typical gnomish tinkerer. 
 
 #### Poppy
 Small human barbarian that breaks all the norms of barbarians. She smart, being one of the main coders of [Robotics Club](groups.md/#robotics-club) She's a senior at the Academy and does not give a shit anymore. Ironically does more coding jobs than adventuring ones.
+
+#### Iming
+She is a member of the Art Club. They're a wood elf cleric of Mystra that weaves magical things. Uses she/they pronouns. 
 
 ## School Staff
 #### Principal Gimo Asari Dumpsterdive
